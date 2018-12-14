@@ -1,6 +1,6 @@
 ![Pig Dice](https://github.com/Adino-S/Pig-Dice/blob/gh-pages/img/pig-dice.png)
 
-# ![\*\*PIG DICE GAME\*\*](https://github.com/Adino-S/Pig-Dice/blob/gh-pages/img/pig-dice.png)
+# [\*\*PIG DICE GAME\*\*](https://adino-s.github.io/Pig-Dice/)
 
 ## Created by **ADINO OLAGO**
 

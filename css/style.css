@@ -1,13 +1,43 @@
-body {
-   background-image: url("../img/flowers.jpeg");
-   background-color: #cccccc;
+.container-{
+  width: 2000px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  background-color: #FBEEE6;
+  }
+
+.iRollA,
+.iRollA{
+  padding: 100px;
 }
-#hide{
+
+body {
+  background-image: url("../img/piggy.png");
+  background-color: #cccccc;
+}
+
+#hide {
   display: none;
 }
 
-.jumbotron{
-  background: url("../img/wood.jpg")top center;
+.panel {
+  padding top: 30em;
+  padding bottom: 30em;
+  border-color:
+    color: blue;
+  text-align: center;
+  font-style: bold;
+}
+
+.panel-header {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+  background-color: #f7f7f7;
+}
+
+.well {
+  height: 200px;
+  width: 50%;
+  background: url("../img/gait.png")top center;
   background-size: control;
   margin-top: 1em;
   padding top: 3em;
@@ -17,43 +47,34 @@ body {
   font-style: bold;
 }
 
-.well{
-  margin-left: 3em;
-  margin-right: 3em;
-  background-color: #BCAAA4;
-  font-size: 1.5em;
-  color: #3E2723;
-  font-style: normal;
-}
-
-#test{
+#test {
   border: #000 1px;
   padding: 10px 40px 40px 40px;
 }
 
 p {
-height: 75%;
-width: 75%;
+  height: 75%;
+  width: 75%;
 }
 
 input#submit {
-color: black;
-font-style: bold;
-text-shadow: 0px 1px 1px #ffffff;
-border-bottom: 2px solid #b2b2b2;
-background-color: white;
+  color: black;
+  font-style: bold;
+  text-shadow: 0px 1px 1px #ffffff;
+  border-bottom: 2px solid #b2b2b2;
+  background-color: white;
 }
 
 input#submit:hover {
-color: #333333;
-border: 1px solid #a4a4a4;
-border-top: 2px solid #b2b2b2;
+  color: #333333;
+  border: 1px solid #a4a4a4;
+  border-top: 2px solid #b2b2b2;
 }
 
-input#total{
-color: #3E2723;
-font-style: bold;
-text-shadow: 0px 1px 1px #ffffff;
-border-bottom: 2px solid #b2b2b2;
-background-color: white;
+input#total {
+  color: #3E2723;
+  font-style: bold;
+  text-shadow: 0px 1px 1px #ffffff;
+  border-bottom: 2px solid #b2b2b2;
+  background-color: white;
 }

@@ -14,10 +14,10 @@ $(document).ready(function() {
     }
     while (i < 5);
   })
-  var count = 0;
+var count = 0;
 })
 
-function compTurn(){
+function compTurn() {
   var currentTurn = 0;
   do {
     text += "The number is " + i;
@@ -25,8 +25,8 @@ function compTurn(){
     document.write();
   }
   while (i < 5);
-  }
-  var count = 0;
+}
+var count = 0;
 }
 
 

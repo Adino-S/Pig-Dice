@@ -4,12 +4,31 @@
   transform: translate(-50%, -50%);
   background-color: #FBEEE6;
   }
-
+.panel-default{
+  background-image: url("../img/wood.jpg");
+  color: #E6B0AA;
+  text-align: center;
+  font-weight: bold;
+  border-color:#641E16;
+  height: 40px;
+  width: 100px;
+}
 body {
   background-image: url("../img/piggy.png");
   background-color: #cccccc;
 }
 
+.rollHold{
+  background-image: url("../img/wood.jpg");
+  color: #E6B0AA;
+  text-align: center;
+  font-style: bold;
+  padding-right: 10em;
+  padding-left: 10em;
+  margin-left: 50em;
+  margin-right: 50em;
+  height: 150px;
+}
 .p{
   max-width: 200px;
 }
@@ -17,13 +36,17 @@ body {
   background-image: url("../img/wood.jpg");
   color: #E6B0AA;
   text-align: center;
+  font-weight: bold;
 }
 
 .well {
   background-image: url("../img/wood.jpg");
   color: #E6B0AA;
   text-align: center;
-  font-style: bold;
+  font-weight: bold;
+  height: 250px;
+  width: 70%;
+  margin-left: 12em;
 }
 
 .button{

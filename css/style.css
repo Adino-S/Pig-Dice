@@ -10,44 +10,28 @@ body {
   background-color: #cccccc;
 }
 
-#hide {
-  display: none;
+.p{
+  max-width: 200px;
 }
-
-.panel {
-  padding top: 30em;
-  padding bottom: 30em;
-  border-color:
-    color: blue;
+.jumbotron{
+  background-image: url("../img/wood.jpg");
+  color: #E6B0AA;
   text-align: center;
-  font-style: bold;
-}
-
-.panel-header {
-  padding: 10px;
-  border-bottom: 1px solid #ddd;
-  background-color: #f7f7f7;
 }
 
 .well {
-  height: 500px;
-  width: 30%;
-  background-color: #E6B0AA;
-  margin-top: 1em;
-  padding top: 3em;
-  padding bottom: 3em;
-  margin-right: 4em;
-  color: #641E16;
+  background-image: url("../img/wood.jpg");
+  color: #E6B0AA;
   text-align: center;
   font-style: bold;
 }
 
+.button{
+  background-image: url("../img/wood.jpg");
+  color: #E6B0AA;
+  text-align: center;
+}
 #test {
   border: #000 1px;
   padding: 10px 40px 40px 40px;
-}
-
-p {
-  height: 75%;
-  width: 75%;
 }

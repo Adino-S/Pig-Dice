@@ -10,16 +10,27 @@ $(document).ready(function() {
     do {
       text += "The number is " + i;
       i++;
+      document.write();
     }
     while (i < 5);
+  })
+  var count = 0;
+})
+
+function compTurn(){
+  var currentTurn = 0;
+  do {
+    text += "The number is " + i;
+    i++;
+    document.write();
+  }
+  while (i < 5);
   }
   var count = 0;
-)
+}
 
 
 
-
-function
 
 $("#checkAnswer").click(function() {
 

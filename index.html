@@ -26,10 +26,11 @@
             PLAYER ONE
           </div>
           <div class="panel">
-            <button type="button" class="btn btn-default btn-lg active"> ROLL THE DICE </button>
+            <button type="button" class="btn btn-default btn-lg active" value="userTurn"> ROLL THE DICE </button>
           </div>
           <div class="player-current-box">
-            <div class="player-current-label"><input type="text" name="total" value="" id="userScore">YOUR SCORE</div>
+            <output type="number" name="result" value="userScore"></output>
+            YOUR SCORE
           </div>
         </div>
       </div>
@@ -43,10 +44,11 @@
             PLAYER TWO
           </div>
           <div class="panel">
-            <button type="button" class="btn btn-default btn-lg active"> ROLL THE DICE </button>
+            <button type="button" class="btn btn-default btn-lg active" value="compTurn"> ROLL THE DICE </button>
           </div>
           <div class="player-current-label">
-            <input type="text" name="total" value="" id="compScore">OUR SCORE
+            <output type="number" name="result" value="compScore"></output>
+            OUR SCORE
           </div>
         </div>
       </div>

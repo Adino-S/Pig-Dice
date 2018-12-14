@@ -9,9 +9,15 @@
   color: #E6B0AA;
   text-align: center;
   font-weight: bold;
+  border-color:#641E16;
   height: 40px;
   width: 100px;
 }
+
+output {
+  display: inline;
+}
+
 .panel{
   background-image: url("../img/wood.jpg");
   color: #E6B0AA;
@@ -19,7 +25,7 @@
   font-weight: bold;
   height: 40px;
   width: 100px;
-  margin-left: 10em;
+  margin-left: 10em
   }
 
 body {

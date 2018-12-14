@@ -1,6 +1,6 @@
-![JavaScrip Quiz](https://github.com/Adino-S/Quiz/blob/master/img/javaquiz.png)
+![Pig Dice]()
 
-# ![\*\*PIG DICE GAME\*\*](https://adino-s.github.io/Quiz/)
+# ![\*\*PIG DICE GAME\*\*]()
 
 ## Created by **ADINO OLAGO**
 
@@ -26,13 +26,13 @@ The object of the game was to get at or over 50 points before the other player d
 
 # **TECHNOLOGIES USED**
 
-## HTML, CSS & BOOTSTRAP
+## HTML, CSS  & BOOTSTRAP
 
 The front end of the page is created on a html web page, and formatted using bootstrap and a custom-CSS style sheet.
 
 ## JavaScript & jQuery
 
-The backend uses an array push method to assign value and account for correct answers.
+The backend uses a while loop to determine the turn of the player, and $random number calculator to provide the value of the dice.
 
 # Bugs
 

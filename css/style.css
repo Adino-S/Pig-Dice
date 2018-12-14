@@ -9,10 +9,19 @@
   color: #E6B0AA;
   text-align: center;
   font-weight: bold;
-  border-color:#641E16;
   height: 40px;
   width: 100px;
 }
+.panel{
+  background-image: url("../img/wood.jpg");
+  color: #E6B0AA;
+  text-align: center;
+  font-weight: bold;
+  height: 40px;
+  width: 100px;
+  margin-left: 10em;
+  }
+
 body {
   background-image: url("../img/piggy.png");
   background-color: #cccccc;
@@ -50,12 +59,6 @@ body {
   margin-right: 5em
 }
 
-.button{
-  background-image: url("../img/wood.jpg");
-  color: #E6B0AA;
-  text-align: center;
-}
-#test {
-  border: #000 1px;
-  padding: 10px 40px 40px 40px;
+.btn {
+  border-radius: 3em;
 }

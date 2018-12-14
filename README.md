@@ -1,20 +1,19 @@
 ![JavaScrip Quiz](https://github.com/Adino-S/Quiz/blob/master/img/javaquiz.png)
 
-# ![\*\*JAVA SCRIPT QUIZ\*\*](https://adino-s.github.io/Quiz/)
+# ![\*\*PIG DICE GAME\*\*](https://adino-s.github.io/Quiz/)
 
 ## Created by **ADINO OLAGO**
 
-## About the JavaScript Quiz
+## About the Pig Dice Game
 
-The Java Script Quiz website presents a short quiz of five multiple choice questions for the elementary student. It's designed to test the knowledge and skills of students through an easy format, where they can select their answer and receive immediate result with their specific score out of 50; each correct answer accounts for 10 marks.
+the object of the game was to get at or over 50 points before the other player does. The players take turns in repeatedly rolling their die until either player scores 50 points.
 
 ## Behaviour Driven Development
 
-This webpage prompts three main behaviours from the user:
-
--   The page requests for user to read and select one answer out of every question outlined.
--   The user must prompt for a response through clicking the Submit Button that triggers the results' calculation
-- The user then reads the result on an alert, which indicates the right answer.
+| Inputs        | Outputs      |    User Behaviour
+| ------------- | -------------|
+| Content Cell  | Content Cell |
+| Content Cell  | Content Cell |
 
 ## Set Up Instruction
 

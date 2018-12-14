@@ -18,16 +18,16 @@ body {
   background-color: #cccccc;
 }
 
-.rollHold{
+.col-md-2 {
   background-image: url("../img/wood.jpg");
   color: #E6B0AA;
   text-align: center;
   font-style: bold;
-  padding-right: 10em;
-  padding-left: 10em;
-  margin-left: 50em;
-  margin-right: 50em;
-  height: 150px;
+  padding-top: 2em;
+  padding-left: 1em;
+  margin-left: 39em;
+  height: 100px;
+  size: 70%;
 }
 .p{
   max-width: 200px;
@@ -46,7 +46,8 @@ body {
   font-weight: bold;
   height: 250px;
   width: 70%;
-  margin-left: 12em;
+  margin-left: 5em;
+  margin-right: 5em
 }
 
 .button{

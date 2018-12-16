@@ -9,8 +9,8 @@ $(document).ready(function() {
     var currentTurn = 0;
     do {
       text += "The number is " + i;
+      document.print();
       i++;
-      document.write();
     }
     while (i < 5);
   })
@@ -26,21 +26,24 @@ function compTurn() {
   }
   while (i < 5);
 }
-var count = 0;
+var iRandom; ()
+var scoreA = () {
+    $("#scoreA").click(function() = {
+      for (i = 1; i <= iRoll; i++) {
+        iRandom = Math.floor(Math.random() * 6)+1);
+        document.writeIn(iRandom);
+      }  
+    }
+    }
+
+
+
+function randomf() {
+  var r= Math.floor(Math.random() * 6) + 1);
+    document.print ()
+
 }
 
 
 
-
 $("#checkAnswer").click(function() {
-
-      var iRandom;
-      var scoreA = () {
-          $("#scoreA").click(function() iRoll = {}
-          }
-
-
-          for (i = 1; i <= iRoll; i++) {
-            iRandom = Math.cel(Math.random() * 6);
-            document.writeIn(iRandom);
-          }

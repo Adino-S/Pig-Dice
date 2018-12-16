@@ -1,49 +1,23 @@
 $(document).ready(function() {
-    var userScore = 0;
-    var compScore = 0;
-    var compTurn = 0;
-    var compCount = 0;
-  }
+$("#button").click(
+  function myRandom(){
+   var randomNumber= Math.ceil (Math.random() * (6 - 1 + 1));
 
-  function userTurn() {
-    var currentTurn = 0;
-    do {
-      text += "The number is " + i;
-      document.print();
-      i++;
-    }
-    while (i < 5);
-  })
-var count = 0;
+   document.getElementById("output").innerHTML=randomNumber
+})
 })
 
-function compTurn() {
-  var currentTurn = 0;
-  do {
-    text += "The number is " + i;
-    i++;
-    document.write();
-  }
-  while (i < 5);
-}
-var iRandom; ()
-var scoreA = () {
-    $("#scoreA").click(function() = {
-      for (i = 1; i <= iRoll; i++) {
-        iRandom = Math.floor(Math.random() * 6)+1);
-        document.writeIn(iRandom);
-      }  
-    }
-    }
-
-
-
-function randomf() {
-  var r= Math.floor(Math.random() * 6) + 1);
-    document.print ()
-
-}
-
-
-
-$("#checkAnswer").click(function() {
+//
+// var upperDiceRoll = 6;
+// var lowerDiceRoll = 1;
+//
+// var myRandom = Math.ceil (Math.random() * (upperDiceRoll - lowerDiceRoll + 1));
+//
+// myRandom.addEventListener("click", function(){
+//   myRandom.textContent
+// });
+//  //
+ // })
+ //
+ //  random.addEventListener('onclick',function(){
+ //    document.getElementsByClassName()

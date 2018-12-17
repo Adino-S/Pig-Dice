@@ -33,16 +33,16 @@ body {
   background-color: #cccccc;
 }
 
-.col-md-2 {
+.col-md-4 {
   background-image: url("../img/wood.jpg");
   color: #E6B0AA;
   text-align: center;
   font-style: bold;
   padding-top: 2em;
   padding-left: 1em;
-  margin-left: 39em;
+  margin-left: 30em;
   height: 100px;
-  size: 70%;
+  size: auto;
 }
 .p{
   max-width: 200px;
@@ -65,6 +65,14 @@ body {
   margin-right: 5em
 }
 
-.btn {
+.btn{
+  border-radius: 3em;
+}
+
+.btn-hold {
+  border-radius: 3em;
+}
+
+.btn-pass{
   border-radius: 3em;
 }

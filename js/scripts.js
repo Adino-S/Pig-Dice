@@ -1,7 +1,7 @@
 // Business Logic
 
-var myRandom = function (){
-return Math.floor(Math.random() * 6) +1;
+var myRandom = function() {
+  return Math.floor(Math.random() * 6) + 1;
 }
 
 // User Interface

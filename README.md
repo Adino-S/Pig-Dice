@@ -1,19 +1,19 @@
 ![Pig Dice](https://github.com/Adino-S/Pig-Dice/blob/gh-pages/img/pig-dice.png)
 
-# [\*\*PIG DICE GAME\*\*](https://adino-s.github.io/Pig-Dice/)
+# [PIG DICE GAME](https://adino-s.github.io/Pig-Dice/)
 
 ## Created by **ADINO OLAGO**
 
 ## About the Pig Dice Game
 
-The object of the game was to get at or over 50 points before the other player does. The players take turns in repeatedly rolling their die until either player scores 50 points.
+The object of the game was to get at or over 100 points before the other player does. The players take turns in repeatedly rolling their die until either player scores 50 points.
 
 ## Behaviour Driven Development
 
-| Inputs        | Outputs      |    User Behaviour              |
-| ------------- | -------------|--------------------------------|              
-| Content Cell  | Content Cell |                                |
-| Content Cell  | Content Cell |                                |
+| Inputs                | Outputs                        | User Behaviour    |
+| --------------------- | ------------------------------ | ----------------- |
+| Player One rolls dice | Random number from 1-6 appears | User clicks again |
+| Player Two rolls dice | Random number from 1-6 appears | User clicks again |
 
 ## Set Up Instruction
 
@@ -32,7 +32,7 @@ The front end of the page is created on a html web page, and formatted using boo
 
 ## JavaScript & jQuery
 
-The backend uses a while loop to determine the turn of the player, and $random number calculator to provide the value of the dice.
+The backend uses a math function to create random numbers and jQuery to link them to the buttons and reflect them on the screen.
 
 # Bugs
 

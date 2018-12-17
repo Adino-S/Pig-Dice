@@ -1,6 +1,6 @@
 ![Pig Dice](https://github.com/Adino-S/Pig-Dice/blob/gh-pages/img/pig-dice.png)
 
-# [\PIG DICE GAME\](https://adino-s.github.io/Pig-Dice/)
+# ![PIG DICE GAME](https://adino-s.github.io/Pig-Dice/)
 
 ## Created by **ADINO OLAGO**
 
@@ -13,7 +13,7 @@ The object of the game was to get at or over 100 points before the other player 
 | Inputs        | Outputs             |    User Behaviour        |
 | ------------- | ------------- |--------------------------------|              
 | Player One rolls dice  | Random number from 1-6 appears | User clicks again|
-|Player One rolls dice  | Random number from 1-6 appears | User clicks again|
+|Player Two rolls dice  | Random number from 1-6 appears | User clicks again|
 
 ## Set Up Instruction
 

@@ -10,10 +10,10 @@ The object of the game was to get at or over 50 points before the other player d
 
 ## Behaviour Driven Development
 
-| Inputs        | Outputs      |    User Behaviour              |
-| ------------- | -------------|--------------------------------|              
-| Content Cell  | Content Cell |                                |
-| Content Cell  | Content Cell |                                |
+| Inputs        | Outputs             |    User Behaviour        |
+| ------------- | ------------- |--------------------------------|              
+| Player One rolls dice  | Random number from 1-6 appears | User clicks again|
+|Player One rolls dice  | Random number from 1-6 appears | User clicks again|
 
 ## Set Up Instruction
 

@@ -28,12 +28,12 @@
           <div class="panel">
           </div>
           <div class="player-current-box">
-            <output type="number" name="result" value="userScore"></output>
-            <input type="number" name="userScore" value="userScore">
+            <input type="number" name="userScore" value="" id="currentCount">
             Current Count
             <p> </p> <br>
-            <input type="number" name="compTotal" value="compTotal">
+            <input type="number" name="compTotal" value="">
             Total Count
+        <input class="btn-1 btn-default btn-lg active" type="button" value="ROLL" id="btn-roll">
           </div>
         </div>
       </div>
@@ -49,11 +49,12 @@
           <div class="panel">
           </div>
           <div class="player-current-label">
-            <input type="number" name="compScore" value="compScore">
+            <input type="number" name="compScore" value="" id="computerCount">
             Current Count
             <p> </p> <br>
-            <input type="number" name="compTotal" value="compTotal">
+            <input type="number" name="compTotal" value="">
           Total Count
+          <input class="btn-2 btn-default btn-lg active" type="button" value="ROLL" id="btn-roll">
           </div>
         </div>
       </div>
@@ -63,7 +64,7 @@
   <div class="row justify-content:center">
     <div class="col-md-4 text-center">
 
-      <p id="rollDice"> <input class="btn btn-default btn-lg active" type="button" value="ROLL" id="btn-roll" onclick="myRandom"><button class="btn btn-default btn-lg active" onclick="btn-hold" value="Submit" id="btn-pass"> PASS</button>
+      <p id="rollDice"> <input class="btn btn-default btn-lg active" type="button" value="ROLL" id="btn-roll"> <button class="btn btn-default btn-lg active" value="Submit" id="btn-pass"> PASS</button>
       </p>
       </div>
   </div>

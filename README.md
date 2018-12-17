@@ -6,7 +6,7 @@
 
 ## About the Pig Dice Game
 
-The object of the game was to get at or over 50 points before the other player does. The players take turns in repeatedly rolling their die until either player scores 50 points.
+The object of the game was to get at or over 100 points before the other player does. The players take turns in repeatedly rolling their die until either player scores 50 points.
 
 ## Behaviour Driven Development
 
